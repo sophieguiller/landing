@@ -1,0 +1,22 @@
+.banner {
+  background-image: url("https://images.unsplash.com/photo-1635247230167-5230a9be00f5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=887&q=80");
+  background-size: cover;
+  color: white;
+  padding: 100px;
+}
+
+h1 {
+  font-family: 'Zen Antique Soft', serif;
+  font-size: 40px;
+}
+
+.banner p {
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+  font-size: 23px;
+  margin-top: 0;
+  margin-bottom:40px;
+}
+
+h2 {
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}

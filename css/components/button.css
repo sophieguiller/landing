@@ -1,0 +1,20 @@
+.btn-green {
+  background: #b5c99a;
+  color: #2c5530;
+  font-weight: bold;
+  padding: 15px 20px;
+  border-radius: 10px;
+}
+
+.btn-green:hover {
+  background: #8c9c77;
+  font-weight: bold;
+}
+
+.footer a {
+  color: #2c5530;
+  font-size: 40px;
+}
+.footer a:hover {
+  color: white;
+}
